@@ -1,6 +1,5 @@
 package main.src.pieces;
 
-import main.src.pieces.PiecesEnum;
 import main.src.board.BoardEnum;
 
 public class Piece {
@@ -11,7 +10,7 @@ public class Piece {
 
     public Piece(PiecesEnum piece, PiecesEnum player, BoardEnum x, BoardEnum y)
     {
-        setTag(piece);
+        setPieceTag(piece);
         setPlayer(player);
         setXCoordinate(x);
         setYCoordinate(y);
