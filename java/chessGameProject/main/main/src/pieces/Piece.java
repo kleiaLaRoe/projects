@@ -1,11 +1,15 @@
 package main.src.pieces;
 
+<<<<<<< Updated upstream
 import main.src.board.BoardEnum;
+=======
+>>>>>>> Stashed changes
 import main.src.board.Coordinate;
 
 public class Piece {
     private PiecesEnum pieceTag;
     private PiecesEnum player;
+<<<<<<< Updated upstream
     private Coordinate currPosition;
     private Coordinate prevPosition;
 
@@ -15,10 +19,19 @@ public class Piece {
         setPlayer(player);
         setPosition(new Coordinate(x, y));
         setPrevPosition(new Coordinate(x, y));
+=======
+    private Coordinate[] validMoves;
+
+    public Piece(PiecesEnum piece, PiecesEnum player)
+    {
+        setPieceTag(piece);
+        setPlayer(player);
+>>>>>>> Stashed changes
     }
 
     private void setPieceTag(PiecesEnum piece) { pieceTag = piece; }
     private void setPlayer(PiecesEnum controller) { player = controller; }
+<<<<<<< Updated upstream
     private void setPosition(Coordinate pos) { currPosition = pos; }
     private void setPrevPosition(Coordinate pos) {prevPosition = pos; }
 
@@ -41,4 +54,14 @@ public class Piece {
         }
         return getPosition().getY() < getPrevPosition().getY();
     }
+=======
+    public void setValidMoves(Coordinate[] moves) { validMoves = moves; }
+
+    public PiecesEnum getPieceTag() { return pieceTag; }
+    public PiecesEnum getPlayer() { return player; }
+    public  Coordinate[] getValidMoves() { return validMoves; }
+
+    public boolean isInCheck() { return false; }
+    public boolean isInCheckmate() { return false; }
+>>>>>>> Stashed changes
 }

@@ -1,5 +1,6 @@
 package pieces;
 
+<<<<<<< Updated upstream
 
 import main.src.board.BoardEnum;
 import main.src.pieces.Movement;
@@ -97,4 +98,77 @@ public class TestMovement {
         assertFalse(validMove);
     }
 
+=======
+import main.src.board.Board;
+import main.src.board.Coordinate;
+import main.src.pieces.Movement;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+public class TestMovement {
+    Movement movement;
+    Board board;
+    Coordinate coordinate;
+
+    @BeforeEach
+    private void setup()
+    {
+        movement = new Movement();
+        board = new Board();
+    }
+
+    @Test
+    public void movement_possibleKingMoves() {}
+
+    @Test
+    public void movement_possibleKingMovesWhileInCheck() {}
+
+    @Test
+    public void movement_possibleKingMovesWhileInCheckmate() {}
+
+    @Test
+    public void movement_possibleQueenMoves() {}
+
+    @Test
+    public void movement_possibleQueenMovesAllyPiece() {}
+
+    @Test
+    public void movement_possibleQueenMovesOpponentPiece() {}
+
+    @Test
+    public void movement_possibleBishopMoves() {}
+
+    @Test
+    public void movement_possibleBishopMovesAllyPiece() {}
+
+    @Test
+    public void movement_possibleBishopMovesOpponentPiece() {}
+
+    @Test
+    public void movement_possibleKnightMoves() {}
+
+    @Test
+    public void movement_possibleKnightMovesAllyPiece() {}
+
+    @Test
+    public void movement_possibleKnightMovesOpponentPiece() {}
+
+    @Test
+    public void movement_possibleRookMoves() {}
+
+    @Test
+    public void movement_possibleRookMovesAllyPiece() {}
+
+    @Test
+    public void movement_possibleRookMovesOpponentPiece() {}
+
+    @Test
+    public void movement_pawnOnlyMovesForwardIfNoOpponentPiece() {}
+
+    @Test
+    public void movement_possiblePawnMovesWhenOpponentPieceIsNear() {}
+
+    @Test
+    public void movemnt_possiblePawnMovesAllyPiece() {}
+>>>>>>> Stashed changes
 }
