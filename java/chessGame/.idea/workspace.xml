@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="287d5475-615a-4da5-b157-1363d095feec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chessGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/chessGame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/board/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/board/BoardEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/board/Coordinate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/pieces/Movement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/pieces/Piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/pieces/PiecesEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cOwD4Cd9ducPe5qJHorsVN3F9l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/main/main/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chessGameProject" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287d5475-615a-4da5-b157-1363d095feec" name="Default Changelist" comment="" />
+      <created>1590412824257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590412824257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1590417399608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590417399608" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1590417114048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590417114048" />
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590413277712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590413277712" />
+    <state x="735" y="303" key="DetectedRootsChooserDialog" timestamp="1590417647865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="303" key="DetectedRootsChooserDialog/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590417647865" />
+    <state x="687" y="329" key="FileChooserDialogImpl" timestamp="1590418415193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="329" key="FileChooserDialogImpl/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590418415193" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1590417868421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590417868421" />
+    <state x="776" y="297" key="chooseDestDirectoryDialog" timestamp="1590418008574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590418008574" />
+    <state x="342" y="140" key="new project wizard" timestamp="1590417927287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.-347.1920.1040@0.0.1920.1040" timestamp="1590417927287" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< Updated upstream:java/chessGameProject/.idea/misc.xml
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="14.0.1" project-jdk-type="JavaSDK">
+=======
+<<<<<<< Updated upstream:java/chessGame/.idea/misc.xml
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> Stashed changes:java/chessGameProject/.idea/misc.xml
+>>>>>>> Stashed changes:java/chessGame/.idea/misc.xml
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
