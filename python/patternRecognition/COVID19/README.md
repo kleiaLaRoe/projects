@@ -1,4 +1,4 @@
-This project uses data that has been collected from John Hopkins Univeristy Center for System Science and Enginnering (JHU CSSE). They have all data stored
+This project uses data that has been collected from Johns Hopkins Univeristy Center for System Science and Enginnering (JHU CSSE). They have all data stored
 in the following repository that can be cloned:
 
 https://github.com/CSSEGISandData/COVID-19.git
