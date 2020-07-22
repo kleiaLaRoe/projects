@@ -10,3 +10,5 @@ Be sure to have the following APIs for python:
     Gitpython: https://gitpython.readthedocs.io/en/stable/
     Seaborn: https://seaborn.pydata.org/
     US: https://pypi.org/project/us/
+    Requests: https://pypi.org/project/requests/2.7.0/
+    
