@@ -11,4 +11,5 @@ All rights are reserved to them for this data.
     ..* Seaborn: https://seaborn.pydata.org/
     ..* US: https://pypi.org/project/us/
     ..* Requests: https://pypi.org/project/requests/2.7.0/
+    ..* HMMLearn:
     
