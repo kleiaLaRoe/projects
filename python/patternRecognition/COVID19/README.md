@@ -6,9 +6,10 @@ https://github.com/CSSEGISandData/COVID-19.git
 All rights are reserved to them for this data.
 
 ### Be sure to have the following APIs for python:
-    * Geopandas: https://geopandas.org/
-    * Gitpython: https://gitpython.readthedocs.io/en/stable/
-    * Seaborn: https://seaborn.pydata.org/
-    * US: https://pypi.org/project/us/
-    * Requests: https://pypi.org/project/requests/2.7.0/
+    ..* Geopandas: https://geopandas.org/
+    ..* Gitpython: https://gitpython.readthedocs.io/en/stable/
+    ..* Seaborn: https://seaborn.pydata.org/
+    ..* US: https://pypi.org/project/us/
+    ..* Requests: https://pypi.org/project/requests/2.7.0/
+    ..* HMMLearn:
     
