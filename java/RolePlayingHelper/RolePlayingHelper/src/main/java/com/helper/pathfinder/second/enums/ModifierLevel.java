@@ -2,10 +2,13 @@ package com.helper.pathfinder.second.enums;
 
 public enum ModifierLevel {
 
+    Terrible("Terrible"),
     Low("Low"),
     Moderate("Moderate"),
     High("High"),
-    Extreme("Extreme");
+    Extreme("Extreme"),
+    Limited("Limited"),
+    Unlimited("Unlimited");
 
     private final String level;
 
