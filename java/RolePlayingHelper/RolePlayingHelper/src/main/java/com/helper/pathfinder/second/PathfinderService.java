@@ -8,7 +8,7 @@ import org.javatuples.Triplet;
 import java.util.Collection;
 
 public class PathfinderService {
-    private int level;
+    private Integer level;
     private Pair<ModifierLevel, Integer> difficultyClass;
     private Pair<ModifierLevel, Integer> spellAttackBonus;
     private Pair<ModifierLevel, Integer> fortitudeSave;
