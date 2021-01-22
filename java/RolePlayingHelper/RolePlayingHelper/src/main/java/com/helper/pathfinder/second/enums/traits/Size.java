@@ -1,4 +1,4 @@
-package com.helper.pathfinder.second.enums;
+package com.helper.pathfinder.second.enums.traits;
 
 public enum Size {
 

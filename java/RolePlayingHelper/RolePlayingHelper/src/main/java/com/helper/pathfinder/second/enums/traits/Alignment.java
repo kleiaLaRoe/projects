@@ -1,6 +1,4 @@
-package com.helper.pathfinder.second.enums;
-
-import org.javatuples.Triplet;
+package com.helper.pathfinder.second.enums.traits;
 
 import java.util.HashMap;
 
@@ -22,7 +20,7 @@ public enum Alignment {
 
     static {
         for(Alignment alignment : values()) {
-            BY_LABEL.put(alignment.label, alignment);
+            BY_LABEL.put(alignment.rowValue, alignment);
             BY_ROW_VALUE.put(alignment.rowValue, alignment);
             BY_COLUMN_VALUE.put(alignment.columnValue, alignment);
         }
